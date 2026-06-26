@@ -10,11 +10,10 @@
 
 🎓 Pursuing M.S. in Industrial & Systems Engineering @ USC (exp. 2028)
 
-📚 I am currently learning systems engineering, with a focus in human factors engineering ⚙️
 
 🎯 Goals:
-- Implement systems thinking and engineering in product development projects 
-- Build at the intersection of people, systems, and product
+- 📚 Implement systems thinking and engineering in product development projects 
+- ⚙️ Build at the intersection of people, systems, and product
 
 ✨ Fun Facts:
 - ⚽ Semi-pro soccer player
