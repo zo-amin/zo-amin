@@ -7,6 +7,7 @@
 ✈️ I work on the 737-10 MAX Flight Test & Engineering Program + Product Development of Commercial Tests (NASA, 777-9, 787)
 
 🎓 B.A in Economics, minor in Technology Management (c/o 2023)
+
 🎓 Pursuing M.S. in Industrial & Systems Engineering @ USC (exp. 2028)
 
 📚 I am currently learning systems engineering, with a focus in human factors engineering ⚙️
